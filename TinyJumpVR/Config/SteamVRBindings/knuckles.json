@@ -52,6 +52,17 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/right/input/a",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Jump"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/left/input/thumbstick",
 					"inputs":
@@ -151,5 +162,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "TinyJumpVR-16682836"
 }
