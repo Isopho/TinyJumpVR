@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+TinyJumpVR/Content/FPWeapon/*
+TinyJumpVR/Content/Geometry/*
+TinyJumpVR/Content/VRSpectator/*
+TinyJumpVR/Content/VRTemplate/*
+
