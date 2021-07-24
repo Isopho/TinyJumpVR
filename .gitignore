@@ -74,6 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
+TinyJumpVR/Saved/Crashes/*
+TinyJumpVR/Saved/webcache_4147/*
 
 TinyJumpVR/Content/FPWeapon/*
 TinyJumpVR/Content/Geometry/*
@@ -89,4 +91,9 @@ TinyJumpVR/Content/Meshes/*
 TinyJumpVR/Content/Effects/*
 TinyJumpVR/Content/MSPresets/*
 TinyJumpVR/Content/MyContent/Materials/*
+TinyJumpVR/Content/EF_Barbra/*
+TinyJumpVR/Content/EF_Edie/*
+TinyJumpVR/Content/EF_MollyGreg/*
+TinyJumpVR/Content/EF_Sam/*
+TinyJumpVR/Content/EF_TwinsRoom/*
 
