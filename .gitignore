@@ -76,6 +76,7 @@ DerivedDataCache/*
 
 TinyJumpVR/Saved/Crashes/*
 TinyJumpVR/Saved/webcache_4147/*
+TinyJumpVR/Intermediate/AssetRegistryCache/*
 
 TinyJumpVR/Content/FPWeapon/*
 TinyJumpVR/Content/Geometry/*
@@ -104,4 +105,6 @@ TinyJumpVR/Content/Environment/*
 TinyJumpVR/Content/Maps/*
 TinyJumpVR/Content/AncientTreasures/*
 TinyJumpVR/Content/Environment_Set/*
+TinyJumpVR/Content/VirtualReality/*
+TinyJumpVR/Content/VirtualRealityBP/*
 
