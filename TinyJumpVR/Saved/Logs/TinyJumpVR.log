@@ -1597,3 +1597,192 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.18-18.06.52:598][179]LogSavePackage: Moving 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Saved/Level1F4648597425146E32794C783CE756DA4.tmp' to 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Content/MyContent/Maps/Level1.umap'
 [2021.08.18-18.06.52:624][179]AssetCheck: New page: Asset Save: Level1
 [2021.08.18-18.06.52:624][179]LogContentValidation: Display: Validating World /Game/MyContent/Maps/Level1.Level1
+[2021.08.18-18.09.54:340][753]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.08.18-18.13.45:941][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Level1" FILE="G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Content/MyContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.18-18.13.45:949][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.18-18.13.45:969][706]LogHLOD: HLOD actor LODActor_11 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.13.45:970][706]LogHLOD: HLOD actor LODActor_12 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.13.45:984][706]LogHLOD: HLOD actor LODActor_13 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.13.46:138][706]LogSavePackage: Moving 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Saved/Level137BA2B844F90F390D29967AA3B2FF414.tmp' to 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Content/MyContent/Maps/Level1.umap'
+[2021.08.18-18.13.46:157][706]AssetCheck: New page: Asset Save: Level1
+[2021.08.18-18.13.46:157][706]LogContentValidation: Display: Validating World /Game/MyContent/Maps/Level1.Level1
+[2021.08.18-18.14.07:772][238]Cmd: TRANSACTION UNDO
+[2021.08.18-18.14.07:772][238]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.14.24:732][953]Cmd: TRANSACTION UNDO
+[2021.08.18-18.14.24:732][953]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.14.52:926][114]Cmd: TRANSACTION UNDO
+[2021.08.18-18.14.52:926][114]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.02:095][911]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.02:095][911]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.03:929][961]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.03:930][961]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.05:635][ 12]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.05:635][ 12]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.10:662][204]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.10:662][204]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.11:052][206]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.11:052][206]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.11:568][209]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.11:568][209]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.12:560][230]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.12:560][230]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.13:290][242]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.13:290][242]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.14:910][305]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.14:910][305]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.15:461][312]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.15:461][312]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.17.16:023][319]Cmd: TRANSACTION UNDO
+[2021.08.18-18.17.16:023][319]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.18.53:899][828]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.08.18-18.18.53:903][828]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_22 in PCD3D_SM5, Default, SM5 (DDC key hash: D50BCD5F5D77DF45BCD0F7081CEA22495533947C), compiling. 
+[2021.08.18-18.18.53:918][828]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_23 in PCD3D_SM5, Default, SM5 (DDC key hash: F201435D939D9D9EB84311C5D553093600F2707B), compiling. 
+[2021.08.18-18.18.53:928][828]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: C550255155EE32E9B9CEE942566334B14458B2F1), compiling. 
+[2021.08.18-18.18.53:940][828]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_25 in PCD3D_SM5, Default, SM5 (DDC key hash: 393E663356BDCED098660F7098F8A98EF21A20C0), compiling. 
+[2021.08.18-18.18.53:950][828]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_26 in PCD3D_SM5, Default, SM5 (DDC key hash: 901FD6461BD588929962A13ECD59E8AD5AD11D97), compiling. 
+[2021.08.18-18.22.42:686][643]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.08.18-18.22.43:963][710]Cmd: STAT FPS
+[2021.08.18-18.23.12:379][558]LogDebuggerCommands: Repeating last play command: Simulate
+[2021.08.18-18.23.12:386][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.18-18.23.12:386][558]PIE: New page: SIE session: Level1 (18.08.2021, 22:23:12)
+[2021.08.18-18.23.12:387][558]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.18-18.23.12:388][558]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.18-18.23.12:388][558]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Level1
+[2021.08.18-18.23.12:444][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055821s)
+[2021.08.18-18.23.12:445][558]LogAIModule: Creating AISystem for world Level1
+[2021.08.18-18.23.12:445][558]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.08.18-18.23.12:446][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Level1.Level1 to /Game/MyContent/Maps/UEDPIE_0_Level1.Level1 (0.057060s)
+[2021.08.18-18.23.12:455][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.08.18-18.23.12:456][558]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.18-18.23.12:456][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2021.08.18-18.23.12:457][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.18-18.23.12:457][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.18-18.23.12:457][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.18-18.23.12:465][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-18.23.12:465][558]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-18.23.12:476][558]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2021.08.18-18.23.12:476][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.18-18.23.12:476][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.18-18.23.12:476][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.18-18.23.12:476][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.18-18.23.12:476][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.18-18.23.12:477][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.18-18.23.12:477][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.18-18.23.12:477][558]LogInit: FAudioDevice initialized.
+[2021.08.18-18.23.12:477][558]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.08.18-18.23.12:484][558]LogLoad: Game class is 'VRThirdPersonGameMode_C'
+[2021.08.18-18.23.12:496][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:496][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:496][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:497][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:497][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:497][558]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.23.12:500][558]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.18-20.23.12
+[2021.08.18-18.23.12:501][558]LogWorld: Bringing up level for play took: 0.016046
+[2021.08.18-18.23.12:501][558]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.08.18-18.23.12:508][558]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.18-18.23.12:514][558]PIE: Server logged in
+[2021.08.18-18.23.12:514][558]PIE: Play in editor total start time 0,129 seconds.
+[2021.08.18-18.23.12:544][558]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2021.08.18-18.23.19:149][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-18.23.19:149][913]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_Level1
+[2021.08.18-18.23.19:150][913]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-18.23.19:152][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-18.23.19:159][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.18-18.23.19:162][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-18.23.19:170][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.18-18.23.19:170][913]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2021.08.18-18.23.19:170][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.18-18.23.19:171][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.18-18.23.19:174][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-18.23.19:180][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.08.18-18.23.19:189][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.18-18.23.19:205][915]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.18-18.24.09:426][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.18-18.24.20:410][ 36]LogDebuggerCommands: Repeating last play command: Simulate
+[2021.08.18-18.24.20:417][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.18-18.24.20:417][ 36]PIE: New page: SIE session: Level1 (18.08.2021, 22:24:20)
+[2021.08.18-18.24.20:417][ 36]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Level1
+[2021.08.18-18.24.20:477][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059950s)
+[2021.08.18-18.24.20:477][ 36]LogAIModule: Creating AISystem for world Level1
+[2021.08.18-18.24.20:478][ 36]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2021.08.18-18.24.20:478][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Level1.Level1 to /Game/MyContent/Maps/UEDPIE_0_Level1.Level1 (0.061347s)
+[2021.08.18-18.24.20:486][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.18-18.24.20:488][ 36]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2021.08.18-18.24.20:488][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.18-18.24.20:488][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.18-18.24.20:488][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.18-18.24.20:497][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-18.24.20:497][ 36]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-18.24.20:508][ 36]LogAudioMixer: Display: Using Audio Device Lautsprecher (High Definition Audio Device)
+[2021.08.18-18.24.20:509][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.18-18.24.20:509][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.18-18.24.20:509][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.18-18.24.20:509][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.18-18.24.20:509][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.18-18.24.20:510][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.18-18.24.20:510][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.18-18.24.20:510][ 36]LogInit: FAudioDevice initialized.
+[2021.08.18-18.24.20:510][ 36]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.08.18-18.24.20:520][ 36]LogLoad: Game class is 'VRThirdPersonGameMode_C'
+[2021.08.18-18.24.20:532][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:532][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:533][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:533][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:533][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:533][ 36]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.18-18.24.20:536][ 36]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.18-20.24.20
+[2021.08.18-18.24.20:537][ 36]LogWorld: Bringing up level for play took: 0.016158
+[2021.08.18-18.24.20:537][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.18-18.24.20:543][ 36]PIE: Server logged in
+[2021.08.18-18.24.20:543][ 36]PIE: Play in editor total start time 0,128 seconds.
+[2021.08.18-18.24.20:574][ 36]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2021.08.18-18.24.37:509][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-18.24.37:509][309]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_Level1
+[2021.08.18-18.24.37:510][309]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-18.24.37:512][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-18.24.37:521][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.18-18.24.37:524][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-18.24.37:532][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-18.24.37:534][309]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2021.08.18-18.24.37:534][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.18-18.24.37:535][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.18-18.24.37:543][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.18-18.24.37:551][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.18-18.24.37:560][310]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.18-18.25.15:541][959]Cmd: TRANSACTION UNDO
+[2021.08.18-18.25.15:541][959]LogEditorTransaction: Undo Foliage Editing
+[2021.08.18-18.26.34:398][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.08.18-18.28.39:797][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.18-18.28.39:815][264]LogHLOD: HLOD actor LODActor_11 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.28.39:815][264]LogHLOD: HLOD actor LODActor_12 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.28.39:829][264]LogHLOD: HLOD actor LODActor_13 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.28.39:833][264]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.08.18-18.28.39:834][264]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2021.08.18-18.28.39:834][264]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2021.08.18-18.28.39:835][264]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2021.08.18-18.28.39:983][264]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2021.08.18-18.28.39:993][264]LogSavePackage: Moving 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Saved/Level1_Auto19628E2484CF31ABB3DBFB98D982DAEEA.tmp' to 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Saved/Autosaves/Game/MyContent/Maps/Level1_Auto1.umap'
+[2021.08.18-18.28.39:996][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Maps/Level1' took 0.208
+[2021.08.18-18.28.39:996][264]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2021.08.18-18.29.22:747][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Level1" FILE="G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Content/MyContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.18-18.29.22:755][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.08.18-18.29.22:772][191]LogHLOD: HLOD actor LODActor_11 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.29.22:773][191]LogHLOD: HLOD actor LODActor_12 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.29.22:786][191]LogHLOD: HLOD actor LODActor_13 in map /Game/MyContent/Maps/Level1 is not built. Meshes may not match.
+[2021.08.18-18.29.22:938][191]LogSavePackage: Moving 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Saved/Level1001BDACE40879F21524748BC153C08FA.tmp' to 'G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Content/MyContent/Maps/Level1.umap'
+[2021.08.18-18.29.22:959][191]AssetCheck: New page: Asset Save: Level1
+[2021.08.18-18.29.22:959][191]LogContentValidation: Display: Validating World /Game/MyContent/Maps/Level1.Level1
