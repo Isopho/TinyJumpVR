@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.tinyjumpvr-16682836.unrealeditor.exe",
+			"app_key": "application.generated.ue.tiny-jump-vr-16682836.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "G:/SW_Projects/UE5_Test_Projects/TinyJumpVR/TinyJumpVR/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "TinyJumpVR-16682836 [UE Editor]"
+					"name": "Tiny Jump VR-16682836 [UE Editor]"
 				}
 			}
 		}
