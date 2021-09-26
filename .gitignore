@@ -74,9 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
-TinyJumpVR/Saved/Crashes/*
-TinyJumpVR/Saved/webcache_4147/*
-TinyJumpVR/Intermediate/AssetRegistryCache/*
+TinyJumpVR/Saved/*
+TinyJumpVR/Plugins/*
+TinyJumpVR/Packaging/*
+TinyJumpVR/Binaries/*
+TinyJumpVR/Intermediate/*
 
 TinyJumpVR/Content/FPWeapon/*
 TinyJumpVR/Content/Geometry/*

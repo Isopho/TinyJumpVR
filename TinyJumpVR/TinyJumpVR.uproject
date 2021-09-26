@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TinyJumpVR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "XRVisualization",
@@ -33,6 +40,22 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusOpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
